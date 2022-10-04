@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    min-width: 500PX;
+   
+}
+input{
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin-left: 15px;
+    margin-top: 15px;
+    border: 2px solid purple;
+    border-radius: 5px;
+}
+.btn{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+button{
+    padding: 10px 25px 10px 25px;
+    cursor: pointer;
+    background-color:palegreen;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    border: none;
+  
+}
